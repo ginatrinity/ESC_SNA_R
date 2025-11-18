@@ -1,10 +1,10 @@
 # Datensatz ESC Eurovision Song Contest #
-Codebuch Stand 24.06.2025, aktualisiert 24.06.2025
+Codebuch Stand 18.11.2025
 erstellt von Gina Grad
 
 ## Inhalt
-- edges_test_v2.csv (Edgelist)
-- nodes_test_v2.csv (Nodelist)
+- ESC_edges_final_1.csv (Edgelist)
+- ESC_nodes_final.csv (Nodelist)
 
 ## Ursprung und Datenerhebung
 Die Daten stammen aus der offiziellen Webiste des ESC. Weitere Bestimmungen zu den Ländern: 
