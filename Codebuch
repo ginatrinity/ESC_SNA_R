@@ -43,17 +43,17 @@ id	    Abkürzung des Landes nach ISO (ISO 3166-1 alpha2) (bsp.: DE)
 name	  Landname deutsch
 
 **region**
-region	 1 - 7, Falls in bestimmter Region Zugehörigkeit zu anderen Ländern besteht (bsp.: 1)
-1 = Northern Europe
-2 = Central Europe
-3 = Western Europe
-4 = Southern Europe
-5 = Southeastern Europe
-6 = Eastern Europe
-7 = Europe und Asia (Schnittstellen)
-8 = Asia
-9 = Australia 
-10 = Africa 
+region	 1 - 10, Falls in bestimmter Region Zugehörigkeit zu anderen Ländern besteht (bsp.: 1)
+1 = Nordeuropa
+2 = Zentraleuropa
+3 = Westeuropa
+4 = Südeuropa
+5 = Südosteuropa
+6 = Osteuropa
+7 = Europa und Asien (Schnittstellen)
+8 = Asien
+9 = Australien 
+10 = Afrika 
 
 
 ##
