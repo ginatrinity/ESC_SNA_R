@@ -14,4 +14,4 @@ Es wurden die Gesamtpunkte bis 2016 erhoben und bis 2025 die Jury-Punkte. (Aufgr
 
 Die Nachbarländer wurden auf Basis von  erhoben.
 
-Die Einteilung der Länderregionen wurden eine Karte auf Basis der Dokumente des Ständigen Ausschuss für geographische Namen (StAGN)
+Die Einteilung der Länderregionen wurden durch eine Karte auf Basis der Dokumente des Ständigen Ausschuss für geographische Namen (StAGN) festgelegt.
