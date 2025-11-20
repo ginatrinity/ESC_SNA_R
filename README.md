@@ -12,6 +12,6 @@ Codebuch.md - Codebuch
 Alle Daten wurden von der Website  des ESC erhoben.
 Es wurden die Gesamtpunkte bis 2016 erhoben und bis 2025 die Jury-Punkte. (Aufgrund des Punktesystemwechsels)
 
-Die Nachbarländer wurden auf Basis von  erhoben.
+Die Nachbarländer wurden auf Basis von der Landeszentrale für politische Bildung BW und eglitis-media (Länderdaten.info) erhoben.
 
 Die Einteilung der Länderregionen wurden durch eine Karte auf Basis der Dokumente des Ständigen Ausschuss für geographische Namen (StAGN) festgelegt.
